@@ -8,7 +8,7 @@
 
 - 🔭 I am Not programmer
  
-- 😎 I am Like Bot & Website
+- 😎 I'm interested in bots and the web
 
 - 🤝 I just copy paste
 </div>
