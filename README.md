@@ -6,7 +6,9 @@
   
 - 👼 My name is riqi
 
-- 🔭 I am Not programmer
+- 🇮🇩 I'm from Indonesia
+
+- 🔭 I'm not a programmer
  
 - 😎 I'm interested in bots and the web
 
