@@ -12,5 +12,5 @@
  
 - 😎 I'm interested in bots and the web
 
-- 🤝 I just copy paste
+- 🤝 I'm always learning
 </div>
