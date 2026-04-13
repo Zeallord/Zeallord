@@ -10,7 +10,7 @@
 
 - 🔭 I'm not a programmer
  
-- 😎 I'm interested in bots and the web
+- 😎 I am interested in bots and websites
 
 - 🤝 I'm always learning
 </div>
